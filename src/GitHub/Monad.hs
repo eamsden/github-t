@@ -10,6 +10,7 @@ module GitHub.Monad
   , GitHubT()
   , runGitHubT
   , runGitHubTWith
+  , Limits(..)
   ) where
 
 
